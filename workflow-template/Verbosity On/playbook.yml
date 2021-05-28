@@ -1,0 +1,11 @@
+- name: Test Ansible verbosity
+  hosts: localhost
+  gather_facts: no
+  connection: local
+ 
+  tasks:
+
+    - fail:
+         msg: Verbose mode not set
+      when:  not ansible_verbosity
+         

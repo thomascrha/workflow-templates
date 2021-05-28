@@ -1,0 +1,20 @@
+{
+  "TemplateId": "ee1ed21e-c2e2-4e1a-a184-e059bc237543",
+  "TemplateName": "workflow template",
+  "Description": "kasmdkads",
+  "TemplateType": 1,
+  "TemplateAuthor": "tester",
+  "ReleaseDateVersion": "05/28/2021 04:04:56",
+  "TemplateFolderPath": "/tmp/rapid/repo/workflow-templates/workflow-template",
+  "IsDevTestEnvironmentsOnly": true,
+  "UsageCount": 0,
+  "IsPromoted": false,
+  "TemplateVersion": "1",
+  "TemplateOwner": "tester",
+  "IsFavourite": false,
+  "TemplateModifiedBy": "tester",
+  "TemplateModifiedDate": "05/28/2021 04:04:56",
+  "TemplateTypeColor": "AnsibleElements",
+  "TemplateIconPath": null,
+  "UseLocalZone": false
+}
